@@ -34,9 +34,3 @@ It includes features like:
 ## 📈 Results
 - Models are trained and compared on predictive performance.
 - Random Forest achieved the best accuracy (details inside notebook).
-
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
-   cd housing-price-prediction
